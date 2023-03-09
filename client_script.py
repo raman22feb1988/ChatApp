@@ -1,5 +1,4 @@
 import requests
-
 import server_script
 
 # Set the API endpoint URL
